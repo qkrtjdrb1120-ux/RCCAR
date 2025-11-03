@@ -1,0 +1,2 @@
+../Core/Src/ultrasonic.c:22:6:HCSR04_TRIGGER	8	static
+../Core/Src/ultrasonic.c:36:6:HAL_TIM_IC_CaptureCallback	16	static
